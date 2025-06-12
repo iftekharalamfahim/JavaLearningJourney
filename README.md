@@ -30,16 +30,17 @@ JavaLearningJourney/
 └── .gitignore                # Ignores compiled .class files, IDE configs, etc.
 ```
 
-- *docs/notes/*: Contains markdown files with summaries of concepts learned each day (e.g., [day1-jshellbasic.md](docs/notes/day1-jshellbasic.md)).
-- *docs/resources/*: Stores links to tutorials, articles, or cheatsheets I find helpful.
-- *src/*: Organized by day or topic, containing Java code files (e.g., HelloWorld.java).
-- *projects/*: Dedicated to larger, multi-file projects built to apply my skills.
+- `*docs/notes/*`: Contains markdown files with summaries of concepts learned each day (e.g., [day1-jshellbasic.md](docs/notes/day1-jshellbasic.md)).
+- `*docs/resources/`*: Stores links to tutorials, articles, or cheatsheets I find helpful.
+- `*src/*`: Organized by day or topic, containing Java code files (e.g., HelloWorld.java).
+- `*projects/*`: Dedicated to larger, multi-file projects built to apply my skills.
 ## Progress Tracker
 Below is a summary of my learning progress, updated regularly:
 
 |  Day  |    Date    |     Topic     | Code |                              Notes                               |
 |:-----:|:----------:|:-------------:|:----:|:----------------------------------------------------------------:|
-| Day 1 | 2025-06-12 | JShell Basics |  -   | [docs/notes/day1-jshellbasic.md](docs/notes/day1-jshellbasic.md) |
+| Day 1 | 2025-06-12 | JShell Basics |  -   | [docs/notes/day1-jshellbasic.md](docs/notes/day1-jshellbasic.md) |  
+
 ***_note_***: This table will be updated as I progress through my learning journey.
 ## How to Run the Code
 To run the Java code in this repository, follow these steps:
