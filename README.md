@@ -40,6 +40,7 @@ Below is a summary of my learning progress, updated regularly:
 |  Day  |    Date    |     Topic     | Code |                              Notes                               |
 |:-----:|:----------:|:-------------:|:----:|:----------------------------------------------------------------:|
 | Day 1 | 2025-06-12 | JShell Basics |  -   | [docs/notes/day1-jshellbasic.md](docs/notes/day1-jshellbasic.md) |  
+| Day 2 | 2025-06-13 |  Java Basics  |   [src/day2/Hello.java](src/day2/Hello.java)   | [docs/notes/day2-javabasics.md](docs/notes/day2-javabasics.md)                                                                 |
 
 ***_note_***: This table will be updated as I progress through my learning journey.
 ## How to Run the Code
