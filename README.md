@@ -72,8 +72,9 @@ My goals for this repository are:
 - Learn Java fundamentals (variables, loops, OOP, collections, etc.).
 - Build practical projects to reinforce my skills.
 - Develop proficiency in Git and GitHub for version control.
-- Create a portfolio to demonstrate my progress to potential employers or collaborators.
-  I’m motivated to become a proficient Java developer and contribute to open-source projects in the future. This repository is a step toward that goal!
+- Create a portfolio to demonstrate my progress to potential employers or collaborators.  
+
+I’m motivated to become a proficient Java developer and contribute to open-source projects in the future. This repository is a step toward that goal!
 ## How to Contribute
 While this is primarily a personal learning project, I welcome feedback and suggestions! If you have ideas for improvement:
 - Open an issue to share feedback or report errors.

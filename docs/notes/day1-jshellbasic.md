@@ -162,7 +162,8 @@ The primitive types, and their respective wrapper classes, are shown in the tabl
 |   long    |     Long      |       64        |  -9223372036854775808   |       9223372036854775807        |                  has the longest range                  |
 |   float   |     Float     |       32        | 1.4 x 10<sup>-45</sup>  |   3.4028235 x 10<sup>38</sup>    |                                                         |
 |  double   |    Double     |       64        | 4.9 x 10<sup>-324</sup> | 1.79769313486 x 10<sup>313</sup> | Java's default data type for any decimal or real number |
-|  boolean  |    Boolean    |        2        |                         |                                  |        allows two opposite values, ture or false        |
+|  boolean  |    Boolean    |        2        |                         |                                  |        allows two opposite values, ture or false        |  
+
 *The Integer Wrapper Class*:
 ```jshelllanguage
 int myMinIntValue = Integer.MIN_VALUE;
