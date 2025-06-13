@@ -12,13 +12,13 @@ package day2;
 
 public class OperatorChallenge {
     public static void main(String[] args) {
-        double firstDoubleVariable = 35.00d;
-        double secondDoubleVariable = 90.00d;
+        double firstDoubleVariable = 40.00d;
+        double secondDoubleVariable = 160.00d;
         //Step-3:
         double stepThree = (firstDoubleVariable + secondDoubleVariable) * 100.00d;
         System.out.println("The result of the step three is: " +stepThree);
         //Step-4:
-        double stepFour = stepThree % 60.00d;
+        double stepFour = stepThree % 80.00d;
         System.out.println("The result of the step four is: " +stepFour);;
         //Step-5 & 6:
         boolean isNoRemainder = (stepFour == 0) ? true : false;
