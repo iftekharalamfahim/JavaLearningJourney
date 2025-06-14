@@ -85,7 +85,7 @@ While this is primarily a personal learning project, I welcome feedback and sugg
 ## License
   This project is licensed under the [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) .
   ***
-*Last updated: 2025, June 13*    
+*Last updated: 2025, June 14*    
 Maintained by [@iftekharalamfahim](https://github.com/iftekharalamfahim)  
 
 Thank you for visiting my Java Learning Journey! Feel free to explore, provide feedback, or follow my progress.
