@@ -1,8 +1,10 @@
 # Java Learning Journey
-Welcome to my Java Learning Journey repository! This project documents my daily progress as I learn Java programming, including code exercises, notes, and mini-projects. My goal is to build a strong foundation in Java, practice version control with Git, and create a portfolio to showcase my skills.  
+Welcome to my Java Learning Journey repository! This project documents my daily progress as I learn Java programming, including code exercises, notes, and mini-projects. My goal is to build a strong foundation in Java, practice version control with Git, and create a portfolio to showcase my skills.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/iftekharalamfahim/JavaLearningJourney)](https://github.com/iftekharalamfahim/JavaLearningJourney/commits)  
+![Java](https://img.shields.io/badge/Java-Learning-red?logo=java&logoColor=white)
+![Days Active](https://img.shields.io/badge/Day-2-blue)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/iftekharalamfahim/JavaLearningJourney)](https://github.com/iftekharalamfahim/JavaLearningJourney/commits)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ## About This Repository  
 This repository serves as a record of my self-paced Java learning journey, starting in June 2025. It includes:  
 - Daily coding exercises organized by date or topic.
@@ -83,9 +85,18 @@ While this is primarily a personal learning project, I welcome feedback and sugg
 - Submit a pull request with proposed changes (e.g., better code organization or corrected notes).
 - Reach out via GitHub Discussions or connect with me on [X](https://x.com/_IftekharFahim) or [LinkedIn](https://www.linkedin.com/in/iftekharalamfahim/).
 ## License
-  This project is licensed under the [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) .
+  This project is licensed under the [MIT  LICENSE](LICENSE) .
   ***
-*Last updated: 2025, June 13*    
+*Last updated: 2025, June 14*    
 Maintained by [@iftekharalamfahim](https://github.com/iftekharalamfahim)  
+  
 
 Thank you for visiting my Java Learning Journey! Feel free to explore, provide feedback, or follow my progress.
+<div align="center">
+  <a href="https://www.java.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="120"/>
+  </a>
+</div>  
+
+
+ 
