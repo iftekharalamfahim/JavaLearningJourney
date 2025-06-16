@@ -2,7 +2,7 @@
 Welcome to my Java Learning Journey repository! This project documents my daily progress as I learn Java programming, including code exercises, notes, and mini-projects. My goal is to build a strong foundation in Java, practice version control with Git, and create a portfolio to showcase my skills.
 
 ![Java](https://img.shields.io/badge/Java-Learning-red?logo=java&logoColor=white)
-![Days Active](https://img.shields.io/badge/Day-3-blue)
+![Days Active](https://img.shields.io/badge/Day-4-blue)
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/iftekharalamfahim/JavaLearningJourney)](https://github.com/iftekharalamfahim/JavaLearningJourney/commits)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ## About This Repository  
@@ -44,6 +44,7 @@ Below is a summary of my learning progress, updated regularly:
 | Day 1 | 2025-06-12 |       JShell Basics        |                                 -                                 | [docs/notes/day1-jshellbasic.md](docs/notes/day1-jshellbasic.md) |  
 | Day 2 | 2025-06-13 |        Java Basics         |                       [src/day2](src/day2)                        | [docs/notes/day2-javabasics.md](docs/notes/day2-javabasics.md)                                                                 |
 | Day 3 | 2025-06-14 | Control Statement & Method |                       [src/day3](src/day3)                        |              [docs/notes/day3-conditionandmethod.md](docs/notes/day3-conditionandmethod.md)                                                                                                                  |
+| Day 4 | 2025-06-15 |   The Switch Sttatement    |             [src/day4](src/day4)                                                      |[docs/notes/day4-theswitchstatement.md](docs/notes/day4-theswitchstatement.md)                                                                                                                                                                                                              |
 
 ***_note_***: This table will be updated as I progress through my learning journey.
 ## How to Run the Code
@@ -88,7 +89,7 @@ While this is primarily a personal learning project, I welcome feedback and sugg
 ## License
   This project is licensed under the [MIT  LICENSE](LICENSE) .
   ***
-*Last updated: 2025, June 15*    
+*Last updated: 2025, June 16*    
 Maintained by [@iftekharalamfahim](https://github.com/iftekharalamfahim)  
   
 
