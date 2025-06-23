@@ -3,3 +3,4 @@
 - For Java Keywords: [Java Language Keywords](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/_keywords.html)
 - For Java Operator Precedence: [Java Operator Precedence Table](https://www.cs.bilkent.edu.tr/~guvenir/courses/CS101/op_precedence.html)
 - [Java Debugger for Intellij IDE](www.jetbrains.com/help/idea/debugging-code.html)
+- [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html#s4.6-whitespace)
